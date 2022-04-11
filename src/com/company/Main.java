@@ -7,10 +7,8 @@ public class Main {
         Student sam = new sam();
         Student box = new Box();
 
-
-
-
         Student[] collect = new Student[]{student,sam,box };
+        System.out.println("future banch code ");
 
     }
 
